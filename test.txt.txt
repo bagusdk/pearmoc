@@ -1,6 +1,0 @@
-4.	Harga penawaran ini belum termasuk :
-a.	Pajak-pajak yang berlaku (PPN 10%, PPh)
-b.	Biaya akomodasi dan transportasi di luar Jakarta
-c.	Biaya maintenance sebesar 20% dari nilai proyek (20% x 128.000.000) setelah masa garansi selesai, yang mencakup pekerjaan Bug fixing system aplikasi dan tidak termasuk perubahan atau penambahan modul..
-
-5.	Harga penawaran ini sudah termasuk :
